@@ -1,0 +1,27 @@
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\GameProject.frmPong.resources
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\GameProject.Resources.resources
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Visual Basic\GameProject\GameProject\bin\Debug\GameProject.exe
+Z:\Visual Basic\GameProject\GameProject\bin\Debug\GameProject.pdb
+Z:\Visual Basic\GameProject\GameProject\bin\Debug\GameProject.xml
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\GameProject.xml
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+Z:\Visual Basic\GameProject\GameProject\obj\x86\Debug\GameProject.frmOptions.resources
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\GameProject.xml
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
+C:\Users\Viet\Desktop\GameProject\GameProject\bin\Debug\GameProject.exe
+C:\Users\Viet\Desktop\GameProject\GameProject\bin\Debug\GameProject.pdb
+C:\Users\Viet\Desktop\GameProject\GameProject\bin\Debug\GameProject.xml
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\GameProject.frmOptions.resources
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\GameProject.frmPong.resources
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\GameProject.Resources.resources
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Viet\Desktop\GameProject\GameProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Viet\Desktop\Nam's Awesome Stuff\GameProject\GameProject\obj\x86\Debug\GameProject.exe
+C:\Users\Viet\Desktop\Nam's Awesome Stuff\GameProject\GameProject\obj\x86\Debug\GameProject.xml
+C:\Users\Viet\Desktop\Nam's Awesome Stuff\GameProject\GameProject\obj\x86\Debug\GameProject.pdb
